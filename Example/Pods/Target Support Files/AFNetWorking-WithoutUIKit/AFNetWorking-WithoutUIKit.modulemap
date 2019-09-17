@@ -1,0 +1,6 @@
+framework module AFNetWorking_WithoutUIKit {
+  umbrella header "AFNetWorking-WithoutUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

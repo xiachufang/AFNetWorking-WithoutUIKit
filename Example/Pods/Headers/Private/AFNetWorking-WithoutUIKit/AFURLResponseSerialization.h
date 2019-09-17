@@ -1,0 +1,1 @@
+../../../../../AFNetWorking-WithoutUIKit/AFURLResponseSerialization.h

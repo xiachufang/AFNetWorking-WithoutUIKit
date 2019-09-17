@@ -1,0 +1,6 @@
+module Pods_AFNetWorking_WithoutUIKit_Tests {
+  umbrella header "Pods-AFNetWorking-WithoutUIKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

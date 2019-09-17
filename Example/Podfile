@@ -1,0 +1,12 @@
+
+platform :ios, '8.0'
+
+target 'AFNetWorking-WithoutUIKit_Example' do
+  pod 'AFNetWorking-WithoutUIKit', :path => '../'
+
+  target 'AFNetWorking-WithoutUIKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

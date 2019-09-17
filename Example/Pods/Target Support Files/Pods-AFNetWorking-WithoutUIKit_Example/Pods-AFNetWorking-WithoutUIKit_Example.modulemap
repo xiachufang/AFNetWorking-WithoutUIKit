@@ -1,0 +1,6 @@
+framework module Pods_AFNetWorking_WithoutUIKit_Example {
+  umbrella header "Pods-AFNetWorking-WithoutUIKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
