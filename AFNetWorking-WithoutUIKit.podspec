@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name     = 'AFNetWorking-WithoutUIKit'
-  s.version  = '1.0.0'
+  s.version  = '1.1.0'
   s.license  = 'MIT'
-  s.summary  = 'A delightful iOS and OS X networking framework.'
+  s.summary  = 'A delightful iOS and OS X AFNetworking-3.1.0 framework.'
   s.homepage = 'https://github.com/xiachufang/AFNetWorking-WithoutUIKit'
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
